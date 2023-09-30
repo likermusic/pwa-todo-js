@@ -1,0 +1,17 @@
+{
+  "name": "Todo App",
+  "short_name": "Todo",
+  "description": "PWA Todo Application",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/icons/logo_192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/logo_512.png",
+      "sizes": "512x512"
+    }
+  ]
+}
